@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amazinggracie
-- 👀 I’m interested in ... Software Engineering.
-- 🌱 I’m currently learning ... golang!
-- 💞️ I’m looking to collaborate on ... any projects that can help me succeed.
-- 📫 How to reach me ... discord @ `amazinggracie#4761` (don't spam please!)
+- 👀 I’m interested in ... Learning.
+- 🌱 I’m currently learning ... Rust!
+- 💞️ I’m looking to collaborate on ... Any projects that can help me learn.
+- 📫 How to reach me ... Discord @ `amazinggracie#4761` (don't spam please!)
 
 <!---
 amazinggracie/amazinggracie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
