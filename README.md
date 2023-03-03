@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amazinggracie
+- 👋 Hi, I’m @sucora (Grace)
 - 👀 I’m interested in ... Learning.
 - 🌱 I’m currently learning ... Rust!
 - 💞️ I’m looking to collaborate on ... Any projects that can help me learn.
