@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sucora (Grace)
 - 👀 I’m interested in ... Learning.
-- 🌱 I’m currently learning ... Rust!
+- 🌱 I’m currently learning ... Kubernetes!
 - 💞️ I’m looking to collaborate on ... Any projects that can help me learn.
 - 📫 How to reach me ... Discord @ `amazinggracie#4761` (don't spam please!)
 
